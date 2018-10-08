@@ -79,11 +79,7 @@ TEST EXAMPLE
 
 ## Authors
 
-* [**Tyler Anyan**](http://tyleranyan.com/)
-* [**Tom North**]()
-* [**Diego Ramos**]()
-* [**Daniel Frey**]()
-* [**Wyatt Peffley**]()
+[**Tyler Anyan**](http://tyleranyan.com/) # [**Tom North**]() # [**Diego Ramos**]() # [**Daniel Frey**]() # [**Wyatt Peffley**]()
 
 ## License
 
